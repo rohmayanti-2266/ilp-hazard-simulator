@@ -7,8 +7,8 @@ Tugas kelompok mata kuliah Arsitektur Komputer: mengimplementasikan deteksi dan 
 | Anggota | GitHub | Bagian |
 |---|---|---|
 | Siti Rohmayanti (owner) | [@rohmayanti-2266](https://github.com/rohmayanti-2266) | RAW, setup repo, penggabungan akhir |
-| Ulfah Baroroh | (isi username) | WAR |
-| Rani Muslimah | (isi username) | WAW |
+| Ulfah Baroroh | ulfah.baroroh@student.itsb.ac.id | WAR |
+| Rani Muslimah | ranimuslimah5@gmail.com | WAW |
 
 ## Struktur Repo
 
